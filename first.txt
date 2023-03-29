@@ -1,3 +1,4 @@
 Gitの練習をしていきます。
 基本的なワークフローを学びます。
 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
+.git commit
